@@ -1,3 +1,5 @@
+config:
+  info:  this is a application.yml
 server:
   port: 8001
 
